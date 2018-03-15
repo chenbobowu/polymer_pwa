@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0633f890-b064-4aa8-828b-7117f34a413c" name="Default" comment="" />
+    <list default="true" id="0633f890-b064-4aa8-828b-7117f34a413c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+            <state relative-caret-position="34">
+              <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -53,7 +56,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ecosystem.config.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ecosystem.config.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ecosystem.config.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -85,8 +88,8 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/f428878a-6931-47ee-90f6-6cf3c86e8469/console.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/f428878a-6931-47ee-90f6-6cf3c86e8469/console_1.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/f428878a-6931-47ee-90f6-6cf3c86e8469/console_2.sql" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/ecosystem.config.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -173,12 +176,12 @@
       <workItem from="1521007081036" duration="832000" />
       <workItem from="1521008846560" duration="932000" />
       <workItem from="1521010114901" duration="1484000" />
-      <workItem from="1521072851054" duration="368000" />
+      <workItem from="1521072851054" duration="604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9375000" />
+    <option name="totallyTimeSpent" value="9611000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1152" height="697" extended-state="0" />
@@ -653,18 +656,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ecosystem.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
           <folding />
         </state>
       </provider>
